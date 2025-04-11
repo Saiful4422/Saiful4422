@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SAIFUL
 -     USERNAME : @Saiful4422
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning PHP AND LARAVEL
+- 🌱 I’m currently learning PHP and PYTHON
 - 💞️ I’m looking to collaborate on OPENSOURCE LARAVEL PROJECT
 - 📫 How to reach me X,AND FACEBOOK
   
